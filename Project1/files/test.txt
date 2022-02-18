@@ -1,0 +1,37 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2861-ED49
+
+ Directory of C:\Python\Project1
+
+18.02.2022  13:31    <DIR>          .
+18.02.2022  13:31    <DIR>          ..
+18.02.2022  13:21    <DIR>          .idea
+18.02.2022  12:43    <DIR>          files
+17.02.2022  15:34             2ÿ430 hero.py
+15.02.2022  16:15               755 Lesson-10-if-elif-else.py
+15.02.2022  16:47               592 Lesson-11-Dictionary.py
+15.02.2022  20:59               528 Lesson-12-Dictionalry.py
+17.02.2022  10:41               605 Lesson-13-Input.py
+17.02.2022  11:06               842 Lesson-14-Functions1.py
+17.02.2022  11:17               600 Lesson-15-Functions2.py
+17.02.2022  12:27               212 Lesson-16-Modules.py
+17.02.2022  14:53               275 Lesson-17-Class.py
+17.02.2022  15:33               605 Lesson-18-Class2.py
+17.02.2022  16:46               468 Lesson-19-Files.py
+18.02.2022  11:19               679 Lesson-20-Exceptions.py
+18.02.2022  12:56             1ÿ249 Lesson-21-JSON.py
+18.02.2022  13:31               657 Lesson-22-Arguments.py
+15.02.2022  13:08               216 Lesson-3-Variables.py
+15.02.2022  13:54               592 Lesson-5-Strings.py
+15.02.2022  14:00               315 Lesson-6-Numbers.py
+15.02.2022  14:14               385 Lesson-7-Loops.py
+15.02.2022  14:15                 0 Lesson-8-Lists1
+15.02.2022  14:31               717 Lesson-8-Lists1.py
+16.02.2022  09:42             1ÿ554 Lesson-9-Lists2.py
+17.02.2022  12:26               130 lesson16forallimportmod.py
+17.02.2022  12:20               130 lesson16mod.py
+15.02.2022  12:58               545 main.py
+15.02.2022  12:54    <DIR>          venv
+17.02.2022  16:02    <DIR>          __pycache__
+              24 File(s)         15ÿ081 bytes
+               6 Dir(s)  417ÿ771ÿ184ÿ128 bytes free
