@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+External Libraries
+Scratches and Consoles
+
+
 # C extensions
 *.so
 
