@@ -1,6 +1,6 @@
 import os, time
 
-DAYS = 5 # Max age of file to stay, older will be deleted
+DAYS = 1 # Max age of file to stay, older will be deleted
 FOLDERS = [
             "C:\Test_For_Delete\Garbage",
             "C:\Test_For_Delete\Rubbish",
