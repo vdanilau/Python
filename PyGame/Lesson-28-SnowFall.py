@@ -38,12 +38,6 @@ class Snow():
         screen.blit(self.image, (self.x, self.y))
 
 
-def initialize_pygame(max_x, max_y):
-    pygame.init()
-    screen = pygame.display.set_mode((MAX_X, MAX_Y), pygame.FULLSCREEN)
-    bg_color = (0, 0, 0)
-
-
 def initialize_snow(max_snow, snowfall):
     for s in range(0, MAX_SNOW):
         xx = random.randint(0, MAX_X)  # случайное начальное положение снежинки
