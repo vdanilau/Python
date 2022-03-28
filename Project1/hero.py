@@ -64,4 +64,3 @@ class NoNameHero(SuperHero):
                        # "; Magic is:" + str(self.magic) +
                        "; Magic level is:" + str(self.magiclevel)).title()
         print(description)
-
