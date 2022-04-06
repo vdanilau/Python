@@ -15,13 +15,13 @@ player2 = {
     "awards": ["WT", "TX", "MI", "AW"]
 }
 
-myplayers = []
-myplayers.append(player1)
-myplayers.append(player2)
+myplayers = [] # создаем массив
+myplayers.append(player1) # Добавляем туда json
+myplayers.append(player2) # Еще один json
 
 # ------- Save by JSON -----------
 
-json.dump(myplayers, myfile)
+json.dump(myplayers, myfile) # это сохранение, что сохраняем (myplayers) и в какой файл сохраняем myfile
 
 myfile.close()
 
