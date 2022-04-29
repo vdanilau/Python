@@ -9,7 +9,7 @@ enemy = {
 
 all_enemies = []
 
-for x in range(0, 10):
+for x in range(0, 10): 
     all_enemies.append(enemy.copy())
 
 for en in all_enemies:
